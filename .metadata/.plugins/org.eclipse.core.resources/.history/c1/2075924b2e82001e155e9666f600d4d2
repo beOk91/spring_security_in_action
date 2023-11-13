@@ -1,0 +1,8 @@
+package com.example.ssiach2ex2.config;
+
+public class Snippet {
+	public static void main(String[] args) {
+		ProjectConfig
+	}
+}
+
